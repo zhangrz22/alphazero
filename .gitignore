@@ -15,7 +15,6 @@ log.txt # 如果你的日志文件名固定
 
 # Virtual environment (if you use one, e.g., venv, env, .venv)
 venv/
-env/
 .venv/
 
 # Large data/model files (if applicable and large)
