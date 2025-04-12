@@ -1,0 +1,31 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Compiled files (from C++ extensions)
+*.so
+*.egg-info/
+build/
+dist/
+
+# Logs
+*.log
+log.txt # 如果你的日志文件名固定
+
+# Virtual environment (if you use one, e.g., venv, env, .venv)
+venv/
+env/
+.venv/
+
+# Large data/model files (if applicable and large)
+# *.npy
+# model/checkpoints/
+# data/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE config files (e.g., VSCode)
+.vscode/
